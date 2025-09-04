@@ -4,5 +4,5 @@ A minimalist desktop music player built with Python and the Tkinter GUI toolkit.
 
 This project serves as a basic example of building a graphical application using Python's standard library for the UI and the Pygame library for audio handling.
 
-<br>
+<hr>
 <i>Have a good one!</i>
