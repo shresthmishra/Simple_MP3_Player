@@ -38,7 +38,7 @@ class MediaPlayer:
         self.stop_button = ttk.Button(button_frame, text="Stop", command=self.stop_track)
         self.stop_button.pack(side=tk.LEFT, padx=5)
 
-        # Center volume frame
+
         volume_frame = tk.Frame(root, bg="#f0f0f0")
         volume_frame.pack(pady=5)
 
